@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewansh Gupta</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **React,Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://dewanshgupta.netlify.app](https://dewanshgupta.netlify.app)
 
